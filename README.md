@@ -107,51 +107,10 @@ make -j4
 
 ![Alt text](<2024-01-24 223841.png>)
 
-## Referece
+## Reference
 
 - [cmake 구성](https://modoocode.com/332)
 - [우분투에 opencv설치](https://roytravel.tistory.com/383)
 - [라즈베리 파이(os)에 opencv 설치](https://make.e4ds.com/make/learn_guide_view.asp?idx=116)
 - [gRPC C++ docs](https://grpc.io/docs/languages/cpp/quickstart/)
 
-
-
-
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# Build directory and its contents
-build/
-
-build
-*.swp
